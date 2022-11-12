@@ -41,8 +41,8 @@ export default defineConfig({
   },
   // // 本地运行配置，及反向代理配置
   server: {
-    open: true,//启动项目自动弹出浏览器
-    port: 3001,//启动端口
+    open: true,
+    port: 3001,
     host: '172.22.2.234',
     proxy: {
       '/qf': {
