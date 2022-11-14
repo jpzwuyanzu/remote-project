@@ -35,12 +35,12 @@
     >
       <swiper-slide>
         <div class="swiper_img_container">
-          <img class="swiper_img" src="../../assets/1.jpg" alt="" />
+          <img class="swiper_img" src="../../assets/halan/001.png" alt="" />
         </div>
       </swiper-slide>
       <swiper-slide>
         <div class="swiper_img_container">
-          <img class="swiper_img" src="../../assets/2.jpg" alt="" />
+          <img class="swiper_img" src="../../assets/halan/002.png" alt="" />
         </div>
       </swiper-slide>
     </swiper>

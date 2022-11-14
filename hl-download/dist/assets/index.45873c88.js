@@ -1,0 +1,1 @@
+import{_ as o,r as _,o as t,c as n,a}from"./index.ee7eac5d.js";const c={},s={class:"layout_container"};function r(d,i){const e=_("router-view");return t(),n("div",s,[a(e)])}const p=o(c,[["render",r],["__scopeId","data-v-0dfa28a0"]]);export{p as default};
