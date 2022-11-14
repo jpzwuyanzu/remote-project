@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/242.5db7c0b7.chunk.js","mappings":"qLAEe,SAASA,IACpB,OACI,kCAIP,C","sources":["views/audit-manage/Audit.tsx"],"sourcesContent":["import React from 'react'\n\nexport default function Audit() {\n    return (\n        <div>\n            Audit\n        </div>\n    )\n}\n"],"names":["Audit"],"sourceRoot":""}

@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/766.c4cd9b3c.chunk.js","mappings":"qLAEe,SAASA,IACpB,OACI,kCAIP,C","sources":["views/news-manage/Draft.tsx"],"sourcesContent":["import React from 'react'\n\nexport default function Draft() {\n    return (\n        <div>\n            Draft\n        </div>\n    )\n}\n"],"names":["Draft"],"sourceRoot":""}

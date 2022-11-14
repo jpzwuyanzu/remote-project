@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/477.7be3cb4c.chunk.js","mappings":"qLAEe,SAASA,IACpB,OACI,gCAIP,C","sources":["views/news-manage/Add.tsx"],"sourcesContent":["import React from 'react'\n\nexport default function Add() {\n    return (\n        <div>\n            add\n        </div>\n    )\n}\n"],"names":["Add"],"sourceRoot":""}

@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/522.8ed8b3c2.chunk.js","mappings":"qLAEe,SAASA,IACpB,OACI,sCAIP,C","sources":["views/publish-manage/Published.tsx"],"sourcesContent":["import React from 'react'\n\nexport default function Published() {\n    return (\n        <div>\n            Published\n        </div>\n    )\n}\n"],"names":["Published"],"sourceRoot":""}
